@@ -1,14 +1,13 @@
-## Basic Blog with Laravel App
+##Going Over the AngularJS Tutorials in W3 Schools built with Laravel 
 
-In this app we develop a basic blog using Laravel from Traversy Media, this is what the tutorial covered:
+This Tutorial
+This tutorial is specially designed to help you learn AngularJS as quickly and efficiently as possible with Laravel MVC.
 
-Routing
-Controllers
-Models & DB Migrations
-Blade Templates/Views
-Authentication & Access Control
-CRUD Functionality
-File Uploading
-Much More...
+First, you will learn the basics of AngularJS: directives, expressions, filters, modules, and controllers.
+
+Then you will learn everything else you need to know about AngularJS:
+
+Events, DOM, Forms, Input, Validation, Http, and more.
 
 
+Remote Repository: https://github.com/edzalcoatl/angularjs_laravel_tutorials.git
